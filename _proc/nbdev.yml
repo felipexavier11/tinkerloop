@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "tinkerloop"
+  site-url: "https://felipexavier11.github.io/tinkerloop"
+  description: "A learn-by-doing library for exploring machine-learning internals."
+  repo-branch: main
+  repo-url: "https://github.com/felipexavier11/tinkerloop"
